@@ -1,4 +1,4 @@
-ame: hello-world!
+ame: hello-world
 on:
   push:
     branches: [ main ]
